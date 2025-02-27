@@ -7,7 +7,6 @@ Este é um sistema web para troca de livros entre usuários, permitindo cadastro
 - 📖 **Cadastro de Livros**: Título, autor, edição e estado de conservação.
 - 🔄 **Troca de Livros**: Solicitação e histórico de trocas.
 - 📝 **Resenhas**: Registro, edição e exclusão de resenhas associadas aos livros.
-- 👤 **Perfis de Usuários**: Histórico de trocas e resenhas.
 - 🖥 **Interface Web**: Frontend interativo com design moderno.
 
 ## 🛠 Tecnologias Utilizadas
